@@ -13,7 +13,7 @@ Analyze student academic performance using SQL and Power BI.
 Analyze sales trends and KPIs.
 
 ### Semiconductor Dashboard
-Analyze semiconductor test and failure data.
+Analyze semiconductor wafer data.
 
 ## Skills
 
